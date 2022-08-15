@@ -1,6 +1,6 @@
-- 👋 Hi, I’m riki@lukrativ-dsign-studio
+- 👋 Hi, I’m riki
 - 👀 I’m interested in ...all things "design": fashion, architecture, graphic, digital, NFT's and so on ...discovering solutions for the delapidation problems of global warming & the dire polution crisis that is detroying our oceans and it's inhabitants. 
-- 🌱 I’m currently learning ...figma - (UX/UI design) along with Unreal engine 4 (game design)
+- 🌱 I’m currently a freelance UX Researcher/UI & Graphic designer/ Product developer & Digital marketing specialist
 - 💞️ I’m looking to collaborate on ...future projects wether it be design based or problematic earth based.
 - 📫 How to reach me ...lukrativ.dsign.studio@gmail.com
 
